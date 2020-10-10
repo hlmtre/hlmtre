@@ -10,7 +10,7 @@ I live in Chico with my wife and tiny human and three cats.
 
 ### Projects
 - **[pybot][pybot-github]** ([@hlmtre/pybot][pybot-github]) A python IRC bot I started all the way back in 2012, to learn python and the IRC protocol. Development has slowed but believe it or not still happens.
-- **[homemaker][homemaker-crates]** ([@hlmtre/homemaker][homemaker-github]) Slightly more than yet another dotfile manager.
+- **[homemaker][homemaker-crates]** ([@hlmtre/homemaker][homemaker-github]) Slightly more than yet another dotfile manager, written in Rust.
 
 [homemaker-github]: https://github.com/hlmtre/homemaker
 [homemaker-crates]: https://crates.io/hm
