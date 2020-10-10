@@ -13,5 +13,5 @@ I live in Chico with my wife and tiny human and three cats.
 - **[homemaker][homemaker-crates]** ([@hlmtre/homemaker][homemaker-github]) Slightly more than yet another dotfile manager, written in Rust.
 
 [homemaker-github]: https://github.com/hlmtre/homemaker
-[homemaker-crates]: https://crates.io/hm
+[homemaker-crates]: https://crates.io/crates/hm
 [pybot-github]: https://github.com/hlmtre/pybot
