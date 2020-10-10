@@ -9,7 +9,7 @@ In my spare time (which is a rarity with a tiny human), I play guitar and compet
 I live in Chico with my wife and tiny human and three cats.
 
 ### Projects
-- **[pybot][pybot-github]** ([@hlmtre/pybot][pybot-github]) A python IRC bot I started all the way back in 2012, to learn python and the IRC protocol. Development has slowed but believe it or not still happens.
+- **[pybot][pybot-github]** ([@hlmtre/pybot][pybot-github]) A python IRC bot I started all the way back in [2012][pybot-first-commit], to learn python and the IRC protocol. Development has slowed but believe it or not still happens.
 - **[homemaker][homemaker-crates]** ([@hlmtre/homemaker][homemaker-github]) Slightly more than yet another dotfile manager, written in Rust.
 
 You can contact me via [email][email-address] or on irc (`irc.zero9f9.com`), probably in `#fg`.
@@ -18,3 +18,4 @@ You can contact me via [email][email-address] or on irc (`irc.zero9f9.com`), pro
 [homemaker-crates]: https://crates.io/crates/hm
 [pybot-github]: https://github.com/hlmtre/pybot
 [email-address]: mailto:hellmitre@gmail.com
+[pybot-first-commit]: https://github.com/hlmtre/pybot/commit/23de8bd8dc4080a522d3522c766e15e14a212f39
