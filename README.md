@@ -18,4 +18,4 @@ You can contact me via [email][email-address] or on [irc][irc-server], probably 
 [homemaker-crates]: https://crates.io/crates/hm
 [pybot-github]: https://github.com/hlmtre/pybot
 [email-address]: mailto:hellmitre@gmail.com
-[irc-server]: irc.zero9f9.com
+[irc-server]: irc://irc.zero9f9.com
