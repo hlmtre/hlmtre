@@ -14,8 +14,6 @@ I live in Chico with my wife and tiny human and three cats.
 
 You can contact me via [email][email-address] or on irc (`irc.zero9f9.com`), probably in `#fg`.
 
-[![hlmtre's github stats](https://github-readme-stats.vercel.app/api?username=hlmtre&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 [homemaker-github]: https://github.com/hlmtre/homemaker
 [homemaker-crates]: https://crates.io/crates/hm
 [pybot-github]: https://github.com/hlmtre/pybot
